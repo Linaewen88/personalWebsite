@@ -2,10 +2,10 @@ I have created a website which would be regularly updated. The main purpose is t
 
 You are welcome to introduce even very basic changes to it which could be as small as solving some typos in the README.md or improving its content. You can also create new issues and start working on it. It would be beneficial for someone who is not yet introduced to using git and GitHub. If you have solved some issues earlier try to leave it for someone who is entirely a beginner. Thanks!
 
-Instructions:-
+Instructions:
 
-Fork this repository.
+1. Fork this repository.
 
-Make some good changes to it.
+2. Make some good changes to it.
 
-Then make a direct pull request with adding a screenshot of new changes.
+3. Then make a direct pull request with adding a screenshot of new changes.
