@@ -1,0 +1,44 @@
+body {
+                margin: 0 auto;
+                padding: 0;
+                display: block;
+                font-family: 'Courier New', Courier, monospace;
+                background-color: lavenderblush;
+            }
+
+            .top-navigation {
+                width: 100%;
+                text-align: center;
+                margin: 1.5rem;
+            }
+
+            .top-navigation a {
+                color: black;
+                font-weight: 900;
+                font-size: 1rem;
+                text-transform: uppercase;
+                text-decoration: none;
+                margin-right: 1.5em;
+            }
+
+            .top-navigation a:hover {
+                color: palevioletred;
+            }
+
+            .top-container {
+                margin: 1rem;
+                text-align: center;
+            }
+
+            .middle-container {
+                padding-top: 1rem;
+                padding-bottom: 1rem;
+                margin: 1rem;
+                text-align: center;
+                border: 1px black solid;
+                border-radius: 2.5%;
+            }
+
+            .skill-row {
+                display: inline-block;
+            }
